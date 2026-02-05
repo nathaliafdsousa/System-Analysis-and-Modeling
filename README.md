@@ -8,7 +8,7 @@
 -  Servir como histórico das entregas e exercícios realizados.
 ---
 
-###Integrantes
+### Integrantes
 - Nathalia Ferreira De Sousa
 - Pedro Felipe Santos
 - Ana Olivia
