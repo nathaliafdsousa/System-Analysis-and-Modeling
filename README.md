@@ -11,6 +11,4 @@
 - Nathalia Ferreira De Sousa
 - Pedro Felipe Santos
 - Ana Olivia
-- Felipe Batista
-- Paulo Augusto Moura
 - Gabrielle Ribeiro
