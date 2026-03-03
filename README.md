@@ -1,4 +1,4 @@
-# System-Analysis-and-Modeling
+# Plataforma de Simulação e Cálculo de milhas
 
 ---
 ### 🎯 O objetivo deste repositório é:
