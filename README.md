@@ -1,10 +1,8 @@
 # Plataforma de Simulação e Cálculo de milhas
 
 ---
-### 🎯 O objetivo deste repositório é:
-- Organizar as atividades propostas pelo professor.
-- Promover a colaboração entre os alunos.
--  Servir como histórico das entregas e exercícios realizados.
+### - Descrição do projeto
+#### O objetivo da projeto é desenvolver uma plataforma digital capaz de calcular e simular a quantidade de milhas necessárias para atingir a meta exigida para emissão de uma passagem aérea.
 ---
 
 ### Integrantes
