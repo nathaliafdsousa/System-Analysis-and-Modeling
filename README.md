@@ -1,14 +1,35 @@
-# Plataforma de simulação e cálculo de milhas- AGNP FLY✈️
+#  Plataforma de Simulação e Cálculo de Milhas – AGNP FLY ✈️
 ---
-## 📌 Sobre o Projeto
-### Este projeto tem como objetivo desenvolver uma plataforma digital responsiva voltada para o cálculo e simulação de milhas aéreas. A solução busca apoiar usuários na análise de programas de fidelidade, permitindo simular estratégias de acúmulo e planejar viagens de forma mais eficiente.
----
+## 🎯 Objetivo
+ Desenvolver uma plataforma digital que permita calcular e simular a quantidade de milhas necessárias para emissão de passagens aéreas, considerando diferentes programas de fidelidade,   regras de acúmulo e estratégias de planejamento.
 
-### Integrantes
+ ---
+
+## 👥 Equipe
 Ana Olivia Geraldo – Product Owner
 
 Pedro Felipe – Product Owner
 
-Gabrielle Ribeiro de Padua – Desenvolvedora
+Gabrielle Ribeiro de Padua – Desenvolvedor
 
-Nathalia Ferreira de Sousa – Desenvolvedora
+Nathalia Ferreira de Sousa – Desenvolvedor
+
+---
+
+## ⚙️ Funcionalidades Principais
+Cadastro e login de usuários
+
+Consulta automática de saldo de milhas via banco/cartão
+
+Simulação de metas de milhas
+
+Cálculo da diferença entre saldo atual e meta
+
+Projeção de tempo para atingir a meta com base em gastos
+
+Dashboard com histórico de simulações
+
+---
+
+## 📌 Status do Projeto
+Atualmente em fase de documentação,modelagem de requisitos e diagramação
