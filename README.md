@@ -32,4 +32,4 @@ Dashboard com histórico de simulações
 ---
 
 ## 📌 Status do Projeto
-Atualmente em fase de documentação,modelagem de requisitos,diagramação e protótipos
+Projeto finalizado e analisado pelo professor da disciplina.
